@@ -1,0 +1,27 @@
+body {
+  background-color: #dddddd;
+}
+.App {
+  text-align: center;
+}
+.header {
+  background-color: #777777;
+}
+
+.tool {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 1px solid gray;
+  border-radius: 12px;
+  padding: 4px;
+  background-color: tan;
+}
+
+path:hover {
+  fill: yellow;
+}
+
+svg {
+  position: relative;
+}

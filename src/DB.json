@@ -1,0 +1,104 @@
+{
+    "now": {
+        "public": {
+            "MMG": {
+                "Beograd": 27,
+                "Jugoistok": 27,
+                "Vojvodina": 38,
+                "Centrozapad": 28,
+                "Gini": 0.070
+            },
+            "CT": {
+                "Beograd": 23,
+                "Jugoistok": 14,
+                "Vojvodina": 13,
+                "Centrozapad": 18,
+                "Gini": 0.12254
+            },
+            "MRI": {
+                "Beograd": 11,
+                "Jugoistok": 2,
+                "Vojvodina": 4,
+                "Centrozapad": 6,
+                "Gini": 0.28819
+            }
+        },
+        "private": {
+            "MMG": {
+                "Beograd": 13,
+                "Jugoistok": 2,
+                "Vojvodina": 14,
+                "Centrozapad": 5,
+                "Gini": 0.104
+            },
+            "CT": {
+                "Beograd": 14,
+                "Jugoistok": 6,
+                "Vojvodina": 9,
+                "Centrozapad": 13,
+                "Gini": 0.12238
+            },
+            "MRI": {
+                "Beograd": 16,
+                "Jugoistok": 12,
+                "Vojvodina": 10,
+                "Centrozapad": 11,
+                "Gini": 0.13074
+            }
+        }
+    },
+    "after": {
+        "public": {
+            "MMG": {
+                "Beograd": 28,
+                "Jugoistok": 25,
+                "Vojvodina": 31,
+                "Centrozapad": 33,
+                "Gini": 0.006
+            },
+            "CT": {
+                "Beograd": 16,
+                "Jugoistok": 14,
+                "Vojvodina": 18,
+                "Centrozapad": 18,
+                "Gini": 0.00964
+            },
+            "MRI": {
+                "Beograd": 5,
+                "Jugoistok": 4,
+                "Vojvodina": 6,
+                "Centrozapad": 6,
+                "Gini": 0.04045
+            }
+        },
+        "private": {
+            "MMG": {
+                "Beograd": 10,
+                "Jugoistok": 8,
+                "Vojvodina": 18,
+                "Centrozapad": 9,
+                "Gini": 0.008
+            },
+            "CT": {
+                "Beograd": 12,
+                "Jugoistok": 9,
+                "Vojvodina": 11,
+                "Centrozapad": 12,
+                "Gini": 0.01742
+            },
+            "MRI": {
+                "Beograd": 14,
+                "Jugoistok": 11,
+                "Vojvodina": 13,
+                "Centrozapad": 13,
+                "Gini": 0.02751
+            }
+        }
+    },
+    "pop": {
+        "Beograd": 1687132,
+        "Jugoistok": 1521081,
+        "Vojvodina": 1871515,
+        "Centrozapad": 1941130
+    }
+}
