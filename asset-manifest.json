@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/d3-device-map/static/css/main.33edad1d.chunk.css",
+    "main.js": "/d3-device-map/static/js/main.aaab8d50.chunk.js",
+    "main.js.map": "/d3-device-map/static/js/main.aaab8d50.chunk.js.map",
+    "runtime-main.js": "/d3-device-map/static/js/runtime-main.1d184713.js",
+    "runtime-main.js.map": "/d3-device-map/static/js/runtime-main.1d184713.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/d3-device-map/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.cadb425b.chunk.js": "/d3-device-map/static/js/2.cadb425b.chunk.js",
+    "static/js/2.cadb425b.chunk.js.map": "/d3-device-map/static/js/2.cadb425b.chunk.js.map",
+    "index.html": "/d3-device-map/index.html",
+    "precache-manifest.35093ac63d1d73350108ee5d186a705b.js": "/d3-device-map/precache-manifest.35093ac63d1d73350108ee5d186a705b.js",
+    "service-worker.js": "/d3-device-map/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/d3-device-map/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.33edad1d.chunk.css.map": "/d3-device-map/static/css/main.33edad1d.chunk.css.map",
+    "static/js/2.cadb425b.chunk.js.LICENSE.txt": "/d3-device-map/static/js/2.cadb425b.chunk.js.LICENSE.txt",
+    "static/media/srbijalv1.geojson": "/d3-device-map/static/media/srbijalv1.fd101659.geojson"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d184713.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.cadb425b.chunk.js",
+    "static/css/main.33edad1d.chunk.css",
+    "static/js/main.aaab8d50.chunk.js"
+  ]
+}
